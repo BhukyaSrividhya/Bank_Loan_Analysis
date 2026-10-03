@@ -57,7 +57,9 @@ Project Images and video/         Dashboard screenshots
 
 | Summary | Overview | Details |
 |---|---|---|
-| ![Summary](Project%20Images%20and%20video/Dashboard_1_SUMMARY.png) | ![Overview](Project%20Images%20and%20video/Dashboard_2_OVERVIEW.png) | ![Details](Project%20Images%20and%20video/Dashboard_3_DETAILS.png) |
+<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/caadb28c-132f-4083-8088-4d57aaf0e103" />
+<img width="1442" height="801" alt="image" src="https://github.com/user-attachments/assets/68ea52a8-104a-4eb7-94b5-78867080e508" />
+<img width="1437" height="800" alt="image" src="https://github.com/user-attachments/assets/254c0751-35b8-4cdd-9777-2b366aa33384" />
 
 - **Summary:** headline KPIs with MTD and MoM, good vs. bad loan comparison, loan status grid
 - **Overview:** monthly trend, state-wise map, loan term, employment length, loan purpose, home ownership
